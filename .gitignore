@@ -1,0 +1,10 @@
+config/
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+*.sublime-projectcompletions
+*.log
+*.DS_Store
+.DS_Store
+deploy/
+src/.DS_Store
